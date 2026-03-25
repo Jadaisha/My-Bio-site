@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta name=""viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="[Your Name] - [Your Professional Title and Specialization]">
+    <title>[Jadaisha Lande] | [Business Analyst]</title>
+</head>
+<body>
+    <h1>Jadaisha Lande <h1>
+        </h1>Business Analyst<h1
+    
+    Navigation should link to: #about, #skills, #contact --> 
+    </h1></ul><li>
+        <a href="#about">About</a>
+    </li>
+    <li>
+        <a href="#skills">Skills</a>
+    </li>
+    <li>
+        <a href="#contact">Contact</a>
+    </li>
+</ul><br />
+
+    <!-- TODO: Add main element -->
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <img src="JLande AI.png" alt="Jadaisha Lande, a professional business analyst, posing for a portrait photograph with a confident and approachable expression" width="200" height="200">
+        </section>
+    </main>
+        <div></div>
+        <body><span style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">
+            I am a passionate and dedicated Business Analyst with a strong background in data analysis, project management, and stakeholder communication. With over 8 years of experience in the Gov tech industry.
+            <div></div> I have successfully led numerous projects that have resulted in improved business processes and increased efficiency. <div></div>My expertise lies in gathering and analyzing requirements, creating detailed documentation, and collaborating with cross-functional teams to deliver innovative solutions that meet business needs.
+        </body></h1></body>
+        <div>
+            
+        </div>
+        <h4>
+            <head>
+            Skills & Experience
+            </head>
+        </h4>
+        <div>
+                <ul>
+                    <li>Gathering and analyzing requirements</li>
+                    <li>Creating detailed documentation</li>
+                    <li>Collaborating with cross-functional teams to deliver innovative solutions that meet business needs</li> 
+                    </ul>
+            </body>
+        </div>
+        <head>
+            <h4>
+                Professional Skills
+            </h4>
+        </head>
+        <body>
+            <ul>
+                <li>Data Analysis</li>
+                <li>Project Management</li>
+                <li>Stakeholder Communication</li>
+                <li>Process Improvement</li>
+            </ul>
+            <div>
+                <head>
+                    <h4>
+                        Currently learning
+                    </h4>
+                    <ul>
+                        <li>Python</li>
+                        <li>SQL</li>
+                        <li>Tableau</li>
+                    </ul>
+            </div>
+<head>
+    <h4>Lets connect</h4>
+</head>
+<div>
+    <ul>
+        <li><a href="mailto:jadaisha.lande@example.com">Jadaisha.Lande@abc.com </a></li>
+        <li><a href="https://www.linkedin.com/in/jadaishalande">Landej</a></li> 
+        <li><a href="https://github.com/jadaishalande">GITHUB - JadaL</a></li>
+</div>
+<h4>Message Me</h4>
+    <h5>
+        Your name:<textarea name="name" rows="1" cols="30"></textarea> Your email: <textarea name="email" rows="1" cols="30"></textarea> Your message: <textarea name="message" rows="5" cols="30"></textarea><button type="submit">Submit</button>
+    </h5>
+    <footer>
+        <p>&copy; 2024 Jadaisha Lande. All rights reserved.</p>
+    
+</html>
